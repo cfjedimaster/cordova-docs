@@ -171,4 +171,3 @@ This Google Group was the old support forum for when Cordova was still called Ph
 * Meetup: [http://phonegap.meetup.com](http://phonegap.meetup.com) - 
 Consider finding a local Cordova/PhoneGap meetup group
 
-
