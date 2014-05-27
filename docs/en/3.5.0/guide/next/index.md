@@ -30,7 +30,7 @@ Examples of SPA libraries you can use in your Cordova applications are:
 * [Monaca](http://monaca.mobi/en/)
 * [ReactJS](http://facebook.github.io/react/)
 * [Sencha Touch](http://www.sencha.com/products/touch/)
-* [jQuery Mobile](jquerymobile.com)
+* [jQuery Mobile](http://jquerymobile.com)
 
 And many, many, more.
 
@@ -137,7 +137,7 @@ Weinre creates a local server that can host a remote debug client for your Cordo
 
 Building a Cordova application that looks nice on mobile can be a challenge, especially for developers. Many people chose to use a UI framework to make this easier. Here is a short list of options you may want to consider.
 
-* [jQuery Mobile](jquerymobile.com) - jQuery Mobile automatically enhances your layout for mobile optimization. It also handles creating a SPA for you automatically.
+* [jQuery Mobile](http://jquerymobile.com) - jQuery Mobile automatically enhances your layout for mobile optimization. It also handles creating a SPA for you automatically.
 * [ionic](http://ionicframework.com/) - This powerful UI framework actually has its own CLI to handle project creation. 
 * [Ratchet](http://goratchet.com/) - Brought to you by the people who created Bootstrap. 
 * [Kendo UI](http://www.telerik.com/kendo-ui) - Open source UI and application framework from Telerik.
